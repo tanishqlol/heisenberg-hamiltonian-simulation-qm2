@@ -2,7 +2,7 @@
 
 This project simulates the time evolution of the Heisenberg Hamiltonian for two spins on a quantum computer using Qiskit. It demonstrates how to approximate the unitary evolution operator  using **Trotterization** and compares simulation results across different quantum backends, including an ideal simulator, noisy simulator, and real IBM Quantum hardware (IBM Torino).
 
-## The Physics
+## Physics
 
 The Heisenberg Hamiltonian for two spins is given by:
 $$H = J (X \otimes X + Y \otimes Y + Z \otimes Z)$$
